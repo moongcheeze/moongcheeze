@@ -1,14 +1,14 @@
 <div align="center">
+  <img src="https://i.pinimg.com/originals/bf/68/3f/bf683fde283aacfa777f251d592fde13.gif" width="350"/>
+</div>
+
+<div align="center">
     <div>
         <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
         <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
         <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">   
     </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gaegu&pause=1000&color=000000&center=true&multiline=true&random=false&width=300&height=60&lines=Hi+there%2C+I'm+JiYeong+Lee+:);Welcome+to+my+profile!" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/bf/68/3f/bf683fde283aacfa777f251d592fde13.gif" width="350"/>
 </div>
 
 
