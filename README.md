@@ -42,11 +42,11 @@
 
 <h3 align="center">💌 Contact 💌</h3>
 <div align="center">
-  <a href="https://colorwaltz.tistory.com">
-    <img alt="Tistory" src="https://img.shields.io/badge/Tistory-FCFCFC.svg?logo=tistory&logoColor=black">&nbsp
-  </a>
-  <a href="mailto:jybyte@gmail.com">
-    <img alt="Mail" src="https://img.shields.io/badge/jybyte@gmail.com-F15F5F.svg?logo=gmail&logoColor=white">&nbsp
-  </a>
+  <span href="https://colorwaltz.tistory.com">
+    <img alt="Tistory" src="https://img.shields.io/badge/Tistory-FCFCFC.svg?logo=tistory&logoColor=black">
+  </span>
+  <span href="mailto:jybyte@gmail.com">
+    <img alt="Mail" src="https://img.shields.io/badge/jybyte@gmail.com-F15F5F.svg?logo=gmail&logoColor=white">
+  </span>
 </div>
 
