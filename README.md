@@ -45,9 +45,8 @@
   <a href="https://colorwaltz.tistory.com">
     <img alt="Tistory" src="https://img.shields.io/badge/Tistory-FCFCFC.svg?logo=tistory&logoColor=black">
   </a>
-</div>
-<div align="center">
   <a href="mailto:jybyte@gmail.com">
     <img alt="Mail" src="https://img.shields.io/badge/jybyte@gmail.com-F15F5F.svg?logo=gmail&logoColor=white">
   </a>
 </div>
+
