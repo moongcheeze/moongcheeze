@@ -4,7 +4,7 @@
         <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
         <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">   
     </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gaegu&pause=1000&color=000000&center=true&multiline=true&random=false&width=300&height=70&lines=Hi+there%2C+I'm+JiYeong+Lee+:);Welcome+to+my+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gaegu&weight=300&pause=1000&color=000000&center=true&vCenter=true&multiline=true&random=false&width=435&height=70&lines=Hi+there%2C+I'm+JiYeong+Lee+%3A);Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
