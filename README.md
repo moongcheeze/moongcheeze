@@ -27,22 +27,3 @@
     <img alt="mySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
 </div>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
-    <img alt="Notion" src="https://img.shields.io/badge/Notion-FCFCFC.svg?logo=notion&logoColor=black">
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-C98AFF.svg?logo=figma&logoColor=white">
-</div>
-
-<h3 align="center">💌 Contact 💌</h3>
-<div align="center">
-  <span href="https://colorwaltz.tistory.com">
-    <img alt="Tistory" src="https://img.shields.io/badge/Tistory-FCFCFC.svg?logo=tistory&logoColor=black">
-  </span>
-  <span href="mailto:jybyte@gmail.com">
-    <img alt="Mail" src="https://img.shields.io/badge/jybyte@gmail.com-F15F5F.svg?logo=gmail&logoColor=white">
-  </span>
-</div>
-
